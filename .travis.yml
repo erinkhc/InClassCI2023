@@ -2,6 +2,5 @@ language: python
 python:
    - "3.4"
    - "3.5"
-
- script:
+script:
    - python TestModule1.py
