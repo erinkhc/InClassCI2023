@@ -19,6 +19,7 @@
 
 #### Week 2
 | Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
 | **06-May** | Prepared Tuesday slides                                                  | Preparation   | 1.5  |
 |            | Internal team meeting, discussed if revision of proposal needed          | Meeting       | 0.5  |
 | **07-May** | Regurlar group meeting for data  599                                     | Meeting       | 3    |
@@ -31,7 +32,8 @@
 
 
 #### Week 3
-| Date       | DESCRIPTION                                                              | Type          | HRs  |
+| Date       | DESCRIPTION                                                             | Type          | HRs  |
+|------------|--------------------------------------------------------------------------|---------------|------|
 | **13-May** | Literature review                                                        | Research      | 2    |
 |            | Revised and edited proposal                                              | Preparation   | 1    |
 |            | Internal team meeting for proposal and presentation                      | Preparation   | 0.5  |
